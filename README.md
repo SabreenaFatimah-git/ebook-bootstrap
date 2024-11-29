@@ -41,6 +41,12 @@ To view the project locally, follow these steps:
 ├── /E-book.html
 └── README.md
 
+/assets/css: Contains the custom main.min.css file for styling the project.
+/assets/js: This folder contains JavaScript files for additional interactivity.
+/images: Folder for any images used in the project.
+index.html: The main HTML file for the project.
+README.md: This file providing project details and documentation.
+
 ## 7. JavaScript and Tooltips
 The project includes Bootstrap's JavaScript bundle for interactivity and includes Popper.js (required for components like dropdowns and tooltips):
 
@@ -58,5 +64,3 @@ The project includes a JavaScript snippet that initializes tooltips for any elem
     });
 </script>
 This allows elements with the toolt class to show a tooltip when hovered over.
-
-
