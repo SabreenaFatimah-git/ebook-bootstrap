@@ -23,7 +23,7 @@ To view the project locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/SabreenaFatimah-git/ebook-bootstrap.git
+   git clone https://github.com/SabreenaFatimah-git/webwisePro-bootstrap.git
 
 ## 5. Open the E-book.html file in your browser to view the project.
 
